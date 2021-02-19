@@ -18,7 +18,7 @@ body {
     padding: 1em;
 }
 
-#container .header {
+#container #header {
     background-color: #37488b;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
     color: white;
@@ -32,7 +32,7 @@ body {
     vertical-align: middle;
 }
 
-#container .header .tagline {
+#container #header .tagline {
     padding-left: 1em;
     font-weight: normal;
     font-size: 0.8em;
